@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ffb4325e-8a67-48aa-b12e-defe93b1b15d" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BDD/Steps/(12)_mail_fake_steps.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="594">
+              <caret line="27" column="27" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BDD/Steps/(14)_np_wyszuk_imie_form.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BDD/Features/(14)_np_wyszuk_imie_form.feature">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BDD/Features/(1)_login.feature">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BDD/Steps/(1)_login_steps.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+              <folding>
+                <element signature="e#0#36#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/TESTYWSB/robot.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BDD/Steps/(2)_login_negative_steps.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BDD/Features/(12)_mail_fake_steps.feature">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="78" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BDD/Features/(13)_np_plus_nrtel_form.feature">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BDD/Steps/(13)_np_plus_nrtel_steps.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="528">
+              <caret line="24" column="57" selection-start-line="24" selection-start-column="57" selection-end-line="24" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/aseracje.py" />
+        <option value="$PROJECT_DIR$/TESTYWSB/6.Test.py" />
+        <option value="$PROJECT_DIR$/TESTYWSB/7.LogIn_Shift_In_Form.py" />
+        <option value="$PROJECT_DIR$/TESTYWSB/1.szuk_elem_na_stronie.py" />
+        <option value="$PROJECT_DIR$/TESTYWSB/8.Test.py" />
+        <option value="$PROJECT_DIR$/Maras/steps/login_steps.py" />
+        <option value="$PROJECT_DIR$/BDD/Steps/definicja.py" />
+        <option value="$PROJECT_DIR$/BDD/Steps/login_steps.py" />
+        <option value="$PROJECT_DIR$/BDD/login.feature" />
+        <option value="$PROJECT_DIR$/TESTYWSB/8.Test.AddBook.py" />
+        <option value="$PROJECT_DIR$/TESTYWSB/11.test.py" />
+        <option value="$PROJECT_DIR$/TESTYWSB/xxxxx.py" />
+        <option value="$PROJECT_DIR$/TESTYWSB/kurwaaa.py" />
+        <option value="$PROJECT_DIR$/Maras/steps/(11)_np_empty_dane_form_steps.py" />
+        <option value="$PROJECT_DIR$/Maras/features/(11)_empty.feature" />
+        <option value="$PROJECT_DIR$/TESTYWSB/2.Proba_Log_bez_log_pass.py" />
+        <option value="$PROJECT_DIR$/TESTYWSB/4.Proba_log_bez_lPolg.py" />
+        <option value="$PROJECT_DIR$/TESTYWSB/3.Proba_log_bez_pass.py" />
+        <option value="$PROJECT_DIR$/TESTYWSB/5.Proba_log_Poprawne_dane.py" />
+        <option value="$PROJECT_DIR$/TESTYWSB/6.Modul_log_form_Enter.py" />
+        <option value="$PROJECT_DIR$/TESTYWSB/6.Modul_log_form_Tab.py" />
+        <option value="$PROJECT_DIR$/TESTYWSB/9.TestScroll.py" />
+        <option value="$PROJECT_DIR$/TESTYWSB/10.Test_Form_Pacjent.py" />
+        <option value="$PROJECT_DIR$/Maras/environment.py" />
+        <option value="$PROJECT_DIR$/Maras/steps/(1)_login_steps.py" />
+        <option value="$PROJECT_DIR$/Maras/steps/robot.py" />
+        <option value="$PROJECT_DIR$/Maras/steps/(2)_login_negative_steps.py" />
+        <option value="$PROJECT_DIR$/BDD/Steps/(3)_login_negative_log_steps.py" />
+        <option value="$PROJECT_DIR$/BDD/environment.py" />
+        <option value="$PROJECT_DIR$/BDD/Steps/(4)_login_negative_pass_steps.py" />
+        <option value="$PROJECT_DIR$/BDD/Steps/(5)_login_key_enter_steps.py" />
+        <option value="$PROJECT_DIR$/TESTYWSB/robot.py" />
+        <option value="$PROJECT_DIR$/BDD/Steps/(7)_login_admin_ksiazka_adresowa_steps.py" />
+        <option value="$PROJECT_DIR$/BDD/Steps/(8)_login_admin_ksiazka_adresowa_steps.py" />
+        <option value="$PROJECT_DIR$/BDD/Steps/(9)_login_admin_nowy_pacjent_steps.py" />
+        <option value="$PROJECT_DIR$/BDD/Features/(10)_np_rowne_dane_form.feature" />
+        <option value="$PROJECT_DIR$/BDD/Steps/(10)_np_rowne_dane_form_steps.py" />
+        <option value="$PROJECT_DIR$/BDD/Steps/(13)_np_plus_nr_tel_steps.py" />
+        <option value="$PROJECT_DIR$/BDD/Features/(1)_login.feature" />
+        <option value="$PROJECT_DIR$/BDD/Steps/(6)_login_key_Glitter_steps.py" />
+        <option value="$PROJECT_DIR$/BDD/Steps/(12)_np_email_dane_form_steps.py" />
+        <option value="$PROJECT_DIR$/BDD/Steps/(14)_np_wyszuk_imie_form.py" />
+        <option value="$PROJECT_DIR$/BDD/Features/(14)_np_wyszuk_imie_form.feature" />
+        <option value="$PROJECT_DIR$/BDD/Features/(11)_np_empty_dane_form.feature" />
+        <option value="$PROJECT_DIR$/BDD/Steps/(11)_np_empty_dane_form_steps.py" />
+        <option value="$PROJECT_DIR$/BDD/Features/(13)_np_plus_nrtel_form.feature" />
+        <option value="$PROJECT_DIR$/BDD/Steps/(13)_np_plus_nrtel_steps.py" />
+        <option value="$PROJECT_DIR$/BDD/Features/(12)_mail_fake_steps.feature" />
+        <option value="$PROJECT_DIR$/BDD/Steps/(12)_mail_fake_steps.py" />
+        <option value="$PROJECT_DIR$/BDD/Steps/(2)_login_negative_steps.py" />
+        <option value="$PROJECT_DIR$/BDD/Steps/(1)_login_steps.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="100" />
+    <option name="width" value="1267" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="WSBprojekt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WSBprojekt" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WSBprojekt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WSBprojekt" type="462c0819:PsiDirectoryNode" />
+              <item name="BDD" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WSBprojekt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WSBprojekt" type="462c0819:PsiDirectoryNode" />
+              <item name="BDD" type="462c0819:PsiDirectoryNode" />
+              <item name="Features" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WSBprojekt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WSBprojekt" type="462c0819:PsiDirectoryNode" />
+              <item name="BDD" type="462c0819:PsiDirectoryNode" />
+              <item name="Steps" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WSBprojekt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WSBprojekt" type="462c0819:PsiDirectoryNode" />
+              <item name="pytest_project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WSBprojekt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WSBprojekt" type="462c0819:PsiDirectoryNode" />
+              <item name="TESTYWSB" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/BDD/Features" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\marci\PYCHARM\PycharmProjects\WSBprojekt\BDD\Features" />
+      <recent name="C:\Users\marci\PYCHARM\PycharmProjects\WSBprojekt\BDD\Steps" />
+      <recent name="C:\Users\marci\PYCHARM\PycharmProjects\WSBprojekt\BDD" />
+      <recent name="C:\Users\marci\PYCHARM\PycharmProjects\WSBprojekt\Maras\features" />
+      <recent name="C:\Users\marci\PYCHARM\PycharmProjects\WSBprojekt\Maras\steps" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\marci\PYCHARM\PycharmProjects\WSBprojekt\BDD\Steps" />
+      <recent name="C:\Users\marci\PYCHARM\PycharmProjects\WSBprojekt\BDD\Features" />
+      <recent name="C:\Users\marci\PYCHARM\PycharmProjects\WSBprojekt\robocze" />
+      <recent name="C:\Users\marci\PYCHARM\PycharmProjects\WSBprojekt\BDD" />
+      <recent name="C:\Users\marci\PYCHARM\PycharmProjects\WSBprojekt\TESTYWSB" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python">
+      <module name="WSBprojekt" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BDD" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ffb4325e-8a67-48aa-b12e-defe93b1b15d" name="Default Changelist" comment="" />
+      <created>1557434802721</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557434802721</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="100" y="0" width="1267" height="735" extended-state="1" />
+    <layout>
+      <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="1" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.3189585" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.48511904" weight="0.37806875" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49255952" weight="0.32358673" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.8024" visible="true" weight="0.358804" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.1704" side_tool="true" weight="0.5225694" />
+      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.8296" weight="0.5220949" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Maras/screenshot-login.2.png" />
+    <entry file="file://$PROJECT_DIR$/Maras/screenshot-login.2_1.png" />
+    <entry file="file://$PROJECT_DIR$/Maras/steps/(2)_login_negative_steps.py" />
+    <entry file="file://$PROJECT_DIR$/Maras/environment.py" />
+    <entry file="file://$PROJECT_DIR$/robocze/definicja.py" />
+    <entry file="file://$PROJECT_DIR$/BDD/screenshot-login.4_2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BDD/screenshot-login.4_1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BDD/screenshot-login.5_2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BDD/screenshot-login.5_1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BDD/screenshot-login.6_2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BDD/screenshot.7_1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BDD/screenshot.7_2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BDD/screenshot-login.6_1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BDD/form.9_2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BDD/form.9_1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BDD/form.9_0.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TESTYWSB/9.TestScroll.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BDD/foto.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BDD/environment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BDD/Features/(5)_login_key_enter_steps.feature" />
+    <entry file="file://$PROJECT_DIR$/BDD/Features/(4)_login_negativ_pass.feature">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BDD/Steps/(3)_login_negative_log_steps.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BDD/Features/(3)_login_negativ_log.feature">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BDD/Features/(2)_login_negativ.feature">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BDD/Steps/(4)_login_negative_pass_steps.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BDD/Features/(6)_login_key_Glitter_steps.feature">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BDD/Features/(7)_login_admin_ksiazka_adresowa_steps.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BDD/Steps/(5)_login_key_enter_steps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-69" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BDD/Steps/(8)_login_admin_ksiazka_adresowa_steps.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BDD/Steps/(9)_login_admin_nowy_pacjent_steps.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BDD/Features/(10)_np_rowne_dane_form.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BDD/Steps/(10)_np_rowne_dane_form_steps.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BDD/Features/(9)_login_admin_nowy_pacjent_steps.feature">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BDD/Features/(8)_login_admin_ksiazka_adresowa_steps.feature">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BDD/Steps/(6)_login_key_Glitter_steps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BDD/Steps/(7)_login_admin_ksiazka_adresowa_steps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-257" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BDD/Features/(12)_np_email_dane_form.feature" />
+    <entry file="file://$PROJECT_DIR$/BDD/Steps/(12)_np_email_dane_form_steps.py" />
+    <entry file="file://$PROJECT_DIR$/BDD/Steps/(13)_np_plus_nr_tel_steps.py" />
+    <entry file="file://$PROJECT_DIR$/BDD/Features/(11)_np_empty_dane_form.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="80" selection-start-line="6" selection-start-column="80" selection-end-line="6" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BDD/Steps/(11)_np_empty_dane_form_steps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="25" column="75" selection-start-line="25" selection-start-column="75" selection-end-line="25" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BDD/Steps/(12)_mail_fake_steps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="27" column="27" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BDD/Steps/(14)_np_wyszuk_imie_form.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BDD/Features/(14)_np_wyszuk_imie_form.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BDD/Features/(1)_login.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BDD/Steps/(2)_login_negative_steps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BDD/Features/(12)_mail_fake_steps.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BDD/Features/(13)_np_plus_nrtel_form.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BDD/Steps/(13)_np_plus_nrtel_steps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="24" column="57" selection-start-line="24" selection-start-column="57" selection-end-line="24" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BDD/Steps/(1)_login_steps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TESTYWSB/robot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
